@@ -2,4 +2,7 @@
 2)Android
 3)Xiaomi p20
 4)IOS
+5)Android
+6)Xiaomi p40
+7) Oppo n100
 
